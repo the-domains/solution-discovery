@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.01750919
+color:
+  saturation: 0.8452381
+  brandStrength: 0.9304631
+  lightness: 0.9605263
+  rhythmicContrast: 0.1390978
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Solution Discovery
