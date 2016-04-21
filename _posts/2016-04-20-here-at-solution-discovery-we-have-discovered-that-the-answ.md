@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Here at Solution Discovery, we have discovered that the answers - and questions - that precede a paradigm shift for an individual or group, existed within them already.'
-datePublished: '2016-04-21T21:59:13.201Z'
-dateModified: '2016-04-20T22:27:48.687Z'
+datePublished: '2016-04-21T22:03:13.783Z'
+dateModified: '2016-04-21T22:02:41.737Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-here-at-solution-discovery-we-have-discovered-that-the-answ.md
@@ -22,6 +22,8 @@ url: here-at-solution-discovery-we-have-discovered-that-the-answ/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24b8b7ca-4752-4185-9bbf-5535377b6ce6.jpg)
+
 Here at Solution Discovery, we have discovered that the answers - and questions - that precede a paradigm shift for an individual or group, existed within them already.
 
 We are particularly selective about the kinds of people who we will facilitate and co-create. What is your legacy to the planet children on the other side of the globe may one day thank you for? An alternate strategy that reverses Amazon de-forestation? That ends poverty on our own streets, that empowers the sick to return to health? That contributes verified, unbiased facts to enable the decision-making of any electorate, creating checks and balances to party propaganda and political bluster? That democratises end empowers each human being to be a valued global citizen? That secures fuel independence, cancels sovereign debt of struggling nations andprovudes plentiful, free clean drinking water for every human being?
