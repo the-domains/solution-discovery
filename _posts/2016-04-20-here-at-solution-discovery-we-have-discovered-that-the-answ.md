@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Here at Solution Discovery, we have discovered that the answers - and questions - that precede a paradigm shift for an individual or group, existed within them already.'
-datePublished: '2016-04-20T22:25:55.290Z'
-dateModified: '2016-04-20T22:25:47.706Z'
+datePublished: '2016-04-21T21:59:13.201Z'
+dateModified: '2016-04-20T22:27:48.687Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-20-here-at-solution-discovery-we-have-discovered-that-the-answ.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-here-at-solution-discovery-we-have-discovered-that-the-answ.md
-published: true
 url: here-at-solution-discovery-we-have-discovered-that-the-answ/index.html
 _type: Article
 
